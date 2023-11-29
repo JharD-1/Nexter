@@ -146,7 +146,7 @@ body {
     .header {
       padding: 5rem; } }
   .header__logo {
-    height: 6rem;
+    height: 8rem;
     justify-self: center; }
   .header__btn {
     align-self: start;
